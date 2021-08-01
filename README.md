@@ -1,2 +1,4 @@
-# brew-tap
- A custom homebrew tap for paragonnov's apps
+# homebrew-tap
+```
+$ brew tap qkdxorjs1002/tap
+```
