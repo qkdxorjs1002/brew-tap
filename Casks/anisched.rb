@@ -1,6 +1,6 @@
 cask "anisched" do
-    version "2.2.3"
-    sha256 "98e41c206c739581ce3eacedd04a6b634f66c6eadfcbfd8adf75eb94a1b5909d"
+    version "2.3.0"
+    sha256 "31cfbe281fb5e7f427713ebde54fd83bb17f394cc66885d4b4f14f5f523bb739"
   
     url "https://github.com/qkdxorjs1002/AniSched-Desktop/releases/download/#{version}/AniSched.#{version}.dmg"
     name "AniSched"
